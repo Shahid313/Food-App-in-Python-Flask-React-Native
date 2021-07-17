@@ -1,0 +1,15 @@
+.navbar{
+    background-color: aqua;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.navbar a{
+    margin-left: 10px;
+    color: brown;
+    text-decoration: none;
+}
